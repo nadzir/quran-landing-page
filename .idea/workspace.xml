@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16c96af5-ac40-4539-b251-474d56fa52cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2046">
-              <caret line="106" selection-start-line="106" selection-end-line="106" />
-              <folding>
-                <marker date="1558802764835" expanded="true" signature="2471:2660" ph="..." />
-              </folding>
+            <state relative-caret-position="69">
+              <caret line="3" column="124" selection-start-line="3" selection-start-column="124" selection-end-line="3" selection-end-column="124" />
             </state>
           </provider>
         </entry>
@@ -96,10 +92,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1012" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="233" />
+    <option name="y" value="203" />
+    <option name="width" value="1207" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -122,8 +119,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,14 +206,15 @@
       <updated>1557935313248</updated>
       <workItem from="1557935315008" duration="4188000" />
       <workItem from="1558802717702" duration="46000" />
+      <workItem from="1558841049368" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4234000" />
+    <option name="totallyTimeSpent" value="4373000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1012" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30729166" />
@@ -311,11 +309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2046">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
-          <folding>
-            <marker date="1558802764835" expanded="true" signature="2471:2660" ph="..." />
-          </folding>
+        <state relative-caret-position="69">
+          <caret line="3" column="124" selection-start-line="3" selection-start-column="124" selection-end-line="3" selection-end-column="124" />
         </state>
       </provider>
     </entry>
