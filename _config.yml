@@ -1,5 +1,5 @@
 # App Info
-ios_app_id                                : 1463842609                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://itunes.apple.com/us/app/quran-daily-app/id1463842609?mt=8&ign-mpt=uo%3D2                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=tech.tempest.quran                                          # Enter Google Play Store URL.
